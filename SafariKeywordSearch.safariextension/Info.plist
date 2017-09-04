@@ -60,5 +60,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.githubusercontent.com/jjeising/SafariKeywordSearch/master/manifest.xml</string>
 </dict>
 </plist>
