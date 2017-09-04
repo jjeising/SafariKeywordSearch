@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Arne Martin Aurlien</string>
+	<string>Arne Martin Aurlien &amp; Jannes Jeising</string>
 	<key>Builder Version</key>
-	<string>8536.30.1</string>
+	<string>12603.3.8</string>
 	<key>CFBundleDisplayName</key>
 	<string>SafariKeywordSearch</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.aurlien.safarikeywordsearch</string>
+	<string>net.tuxxel.safarikeywordsearch</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2.5</string>
+	<string>2.3.0</string>
 	<key>CFBundleVersion</key>
-	<string>18</string>
+	<string>20</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Context Menu Items</key>
@@ -46,6 +46,8 @@
 	</dict>
 	<key>Description</key>
 	<string>Enables keyword search from the address bar in Safari.</string>
+	<key>DeveloperIdentifier</key>
+	<string>KZUDFGS3SD</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -58,9 +60,5 @@
 			<string>All</string>
 		</dict>
 	</dict>
-	<key>Update Manifest URL</key>
-	<string>http://safarikeywordsearch.aurlien.net/manifest.xml</string>
-	<key>Website</key>
-	<string>http://safarikeywordsearch.aurlien.net/</string>
 </dict>
 </plist>

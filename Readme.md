@@ -1,7 +1,9 @@
 Safari Keyword Search
 =====================
 
-Safari Keyword Search is a simple extension for Safari 5.1 and above that can change the default Safari search engine and enables keyword searching from the address bar. This is a simple but powerful feature that gives you access to several search engines using simple keywords. For example, you can search Wikipedia for information on monkeys by typing `w monkeys` in the address bar.
+**This fork filters IP addresses and provides an updated release.**
+
+Safari Keyword Search is a simple extension for Safari that can change the default Safari search engine and enables keyword searching from the address bar. This is a simple but powerful feature that gives you access to several search engines using simple keywords. For example, you can search Wikipedia for information on monkeys by typing `w monkeys` in the address bar.
 
 The following searches are included in the default set:
 
@@ -22,15 +24,8 @@ Any search engine can be set as the default. The default search engine will be u
 
 To edit or delete the search engines, or add your own, right-click any web page and select “Keyword Search Settings”. Here you can add keywords and search URLs, and delete or modify the existing ones. Put `@@@` in the search URL to insert the search string, or use `%%%` if you want spaces to be encoded as `%20` instead of `+`. It is also possible to have keyword expansions without search strings, if you just want quick bookmarks.
 
-
-Limitations
------------
-
-- In Safari 5.1, the search term cannot contain a colon symbol (:), as this makes Safari believe something is wrong with the URL protocol. Two typical uses for this is to use `site:example.com` in Google to limit your search to a specific domain, and `cache:example.com/article.html` to view the Google cache of a specific page. Workarounds for these two cases are provided: Any Google-search containing `site=` or `cache=` will convert the `=` to a `:`.
-
 Installation
 ------------
 
-1. [Download the extension file](http://safarikeywordsearch.aurlien.net/SafariKeywordSearch.safariextz)
+1. [Download the extension](https://github.com/jjeising/SafariKeywordSearch/releases)
 2. Double-click it to install
-3. There is no step 3 :-)
