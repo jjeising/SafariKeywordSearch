@@ -29,3 +29,9 @@ Installation
 
 1. [Download the extension](https://github.com/jjeising/SafariKeywordSearch/releases)
 2. Double-click it to install
+
+
+Original Extension
+------------------
+
+http://safarikeywordsearch.aurlien.net/
